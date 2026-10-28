@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "book_id": "0001",
+    "title": "해리 포터와 마법사의 돌",
+    "author": "J.K. 롤링",
+    "publisher": "문학수첩",
+    "call_number": "843.7 롤1ㅎ",
+    "isbn": "9788983920710",
+    "floor": 2,
+    "shelf_section": "A",
+    "shelf_number": 3,
+    "is_available": true,
+    "description": "마법 학교 호그와트 입학 후 해리 포터가 겪는 모험을 그린 판타지 소설."
+  },
+  {
+    "id": 2,
+    "book_id": "0002",
+    "title": "코스모스",
+    "author": "칼 세이건",
+    "publisher": "사이언스북스",
+    "call_number": "444 세1ㅋ",
+    "isbn": "9788983711960",
+    "floor": 3,
+    "shelf_section": "B",
+    "shelf_number": 7,
+    "is_available": true,
+    "description": "우주, 생명, 과학의 역사를 서정적으로 풀어낸 과학 교양서."
+  },
+  {
+    "id": 3,
+    "book_id": "0003",
+    "title": "사피엔스",
+    "author": "유발 하라리",
+    "publisher": "김영사",
+    "call_number": "909 하1ㅅ",
+    "isbn": "9788934972467",
+    "floor": 3,
+    "shelf_section": "B",
+    "shelf_number": 2,
+    "is_available": false,
+    "description": "인류 역사를 통사적으로 조망한 베스트셀러 논픽션."
+  },
+  {
+    "id": 4,
+    "book_id": "0004",
+    "title": "데미안",
+    "author": "헤르만 헤세",
+    "publisher": "민음사",
+    "call_number": "833 헤1ㄷ",
+    "isbn": "9788937460448",
+    "floor": 2,
+    "shelf_section": "C",
+    "shelf_number": 5,
+    "is_available": true,
+    "description": "두 세계의 경계에서 자아를 찾아가는 소년의 성장 소설."
+  },
+  {
+    "id": 5,
+    "book_id": "0005",
+    "title": "클린 코드",
+    "author": "로버트 C. 마틴",
+    "publisher": "인사이트",
+    "call_number": "005.13 마1ㅋ",
+    "isbn": "9788960771997",
+    "floor": 1,
+    "shelf_section": "D",
+    "shelf_number": 1,
+    "is_available": true,
+    "description": "읽기 좋고 유지하기 쉬운 코드를 작성하는 원칙을 정리한 개발 실무서."
+  }
+]
